@@ -8,12 +8,22 @@
 2. Type text 
 3. Transfer files from phone to laptop
 4. Download files from laptop to phone
-5. Use your laptop as speaker to play mp3 files of phone
+5. media controls and brightness control
 6. See images of phone on laptop
 7. Control presentation on laptop via phone
 8. Suspend, Restart or Shutdown your laptop using phone
-9. Fetch your laptop screen to Android (only single click supported)
-10. Browse Android files on Desktop (View and Download)
+9. Fetch your laptop screen to Android 
+10. Browse Android files on Desktop 
+11. Cast mobile screen to desktop
+12.  Cast desktop camera to mobile
+13.  Terminal control
+14.  Video stream
+15.  Audio stream
+16.  Share URL to browser
+17.  Gamepad
+18.  Task manager
+19.  App list
+20.  moniter control
 
 ### Android app link
 [![Android App](./screenshots/google-play.png)](https://play.google.com/store/apps/details?id=prad.mob.PCPS)
