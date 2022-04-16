@@ -16,7 +16,7 @@
 10. Browse Android files on Desktop (View and Download)
 
 ### Android app link
-[![Android App](./screenshots/google-play.png)](https://play.google.com/store/apps/details?id=me.varunon9.remotecontrolpc)
+[![Android App](./screenshots/google-play.png)](https://play.google.com/store/apps/details?id=prad.mob.PCPS)
 
 ### Desktop app link
 https://pcoid.github.io/pcoid/
